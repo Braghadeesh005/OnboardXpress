@@ -1,0 +1,70 @@
+.tasked{
+    color: white;
+}
+
+.rab{
+   
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+}
+
+.rab2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.rab-5{
+    color: rgb(96, 38, 38);
+}
+.rab3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.navlink-rab{
+    background-color: black;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 7px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+
+.rab-table{
+    margin: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+td , th{
+    border: 1.5px solid rgb(47, 139, 107);
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+}
+
+.mark{
+    background-color: rgb(100, 220, 100);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 3px;
+    
+}

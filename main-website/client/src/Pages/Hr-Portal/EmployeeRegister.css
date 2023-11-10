@@ -1,0 +1,22 @@
+.outer{
+    display: flex;
+    gap: 50px;
+}
+
+.model{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 70px;
+    margin-bottom: 100px;
+}
+.font{
+    color: white;
+}
+/* .outer1{
+    display: flex;;
+} */
+
+.managers{
+    background-color: aqua;
+}

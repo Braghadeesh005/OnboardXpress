@@ -1,0 +1,10 @@
+.google-button{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    left: 40%;
+}
+.google-button-1{
+    padding-left: 20px;
+    padding-right: 20px;
+}

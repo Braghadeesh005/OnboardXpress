@@ -1,0 +1,4 @@
+0 pancard
+1 Aadhar
+2 Resume
+3 userpic
